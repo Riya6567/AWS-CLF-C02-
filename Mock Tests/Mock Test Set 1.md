@@ -6,7 +6,7 @@
 - E) Amazon Athena
 <details>
   <summary><b> Click to see Answer </b></summary>
-    **Correct Answer:** B
+    <b> Correct Answer: </b> B
     **Explanation: ** Amazon
 </details>
 
